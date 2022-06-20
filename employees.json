@@ -1,0 +1,77 @@
+{
+    "Employees" : [
+    {
+    "employeeId":1,
+    "name":"Jorge Llanes",
+    "salary":"120000",
+    "department":"Front-End"
+    
+    },
+    {
+    "employeeId":2,
+    "name":"Michael Jordan",
+    "salary":"800000",
+    "department":"Basketball player"
+
+    },
+    {
+    "employeeId":3,
+    "name":"Conor McGregor",
+    "salary":"1000000",
+    "department":"UFC Fighter"
+
+    },
+    {
+    "employeeId":4,
+    "name":"Brad Pitt",
+    "salary":"900000",
+    "department":"Actor"
+    
+    },
+    {
+    "employeeId":5,
+    "name":"Tom Brady",
+    "salary":"20000000",
+    "department":"QB"
+        
+    },
+    {
+    "employeeId":6,
+    "name":"Lakeith Stanfield",
+    "salary":"2000000",
+    "department":"Actor"
+            
+    },
+    {
+    "employeeId":7,
+    "name":"JJ JJ",
+    "salary":"500000",
+    "department":"Data Analyst"
+    
+    },
+    {
+    "employeeId":8,
+    "name":"Israel Adesanya",
+    "salary":"950000",
+    "department":"UFC Fighter"
+        
+    },
+    {
+    "employeeId":9,
+    "name":"Michael Chandler",
+    "salary":"700000",
+    "department":"UFC Fighter"
+            
+    },
+    {
+    "employeeId":10,
+    "name":"Jordan Peele",
+    "salary":"3000000",
+    "department":"Movie Director / Comedian"
+                
+    }
+
+    ]
+}
+
+
